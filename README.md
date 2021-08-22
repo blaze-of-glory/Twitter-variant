@@ -1,2 +1,2 @@
 # Twitter-variant
-Just my attempt to represent Twitter functional using React.js
+My variant of Twitter written by using React.
